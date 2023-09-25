@@ -4,11 +4,11 @@
 # Exploring Curriculum Learning for Image Denoising
 
 ## Authors
+- Shreya Rajendra Pai
 - Kush Jayank Pandya 
 - Jash Shah 
 - Hrishikesh Salunkhe
 - Dwijiesh Jigarbhai Shah
-- Shreya Rajendra Pai 
 - Haarika Ambati
 
 ## Introduction
